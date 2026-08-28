@@ -7,6 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
+// pq muito ruim ?? a logiica de validavao esta no programa principal
 public class MuitoRuim {
     static void main(String[] args) throws ParseException {
         Scanner sc = new Scanner(System.in);
