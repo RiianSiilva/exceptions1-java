@@ -14,6 +14,8 @@ public class Reservation {
 
     private static SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
+    // throws propaga a exceção
+    // throw lança a exceção
     public Reservation(Integer roomNumber, Date checkIn, Date checkOut) throws DomainExeptions {
         if (!checkOut.after(checkIn)) {
             throw new DomainExeptions("Error in reservation: Check-out date must be after check-in date");
