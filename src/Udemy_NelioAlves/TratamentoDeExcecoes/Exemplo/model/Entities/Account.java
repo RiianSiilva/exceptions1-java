@@ -1,6 +1,6 @@
-package Exemplo.model.Entities;
+package Udemy_NelioAlves.TratamentoDeExcecoes.Exemplo.model.Entities;
 
-import Exemplo.model.Exeptions.DomainExeptions;
+import Udemy_NelioAlves.TratamentoDeExcecoes.Exemplo.model.Exeptions.DomainExeptions;
 
 public class Account extends Exception {
     private Integer number;

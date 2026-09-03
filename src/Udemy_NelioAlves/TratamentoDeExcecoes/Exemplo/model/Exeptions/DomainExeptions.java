@@ -1,4 +1,4 @@
-package Exemplo.model.Exeptions;
+package Udemy_NelioAlves.TratamentoDeExcecoes.Exemplo.model.Exeptions;
 import java.io.Serial;
 
 public class DomainExeptions extends Exception{

@@ -11,7 +11,7 @@ public class Aula06EstrturaDeRepeticao01 {
             count = count + 1;
         }
 
-        do { //  vai executar uma vez garantido, mesmo sendo falso a afirmacao
+        do { //  garante um execucao, mesmo a afirmacao sendo falsa
             System.out.println("testando.... " + count);
             count++;
         } while (count < 10);

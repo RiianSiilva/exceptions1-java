@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class TryCatch {
     static void main(String[] args) {
         // o bloco try (tentar) contem o codigo que representa a execucao normal
-        // do trecho do codigo que pose acarretar em uma excecao
+        // do trecho do codigo que pode acarretar em uma excecao
 
         // o bloco catch (capturar) contem o codigo a ser executado caso uma excecao ocorra
         // deve ser especificado o tipo da excecao a ser tratada (upcasting e permitido)

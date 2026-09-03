@@ -1,9 +1,8 @@
-package Exemplo.application;
+package Udemy_NelioAlves.TratamentoDeExcecoes.Exemplo.application;
 
-import Exemplo.model.Entities.Account;
-import Exemplo.model.Exeptions.DomainExeptions;
+import Udemy_NelioAlves.TratamentoDeExcecoes.Exemplo.model.Entities.Account;
+import Udemy_NelioAlves.TratamentoDeExcecoes.Exemplo.model.Exeptions.DomainExeptions;
 
-import java.sql.SQLOutput;
 import java.util.Locale;
 import java.util.Scanner;
 

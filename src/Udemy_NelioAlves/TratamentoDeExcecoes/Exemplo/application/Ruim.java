@@ -1,6 +1,6 @@
-//package Exemplo.application;
+//package Udemy_NelioAlves.TratamentoDeExcecoes.Exemplo.application;
 //
-//import Exemplo.modelEntities.Reservation;
+//import Udemy_NelioAlves.TratamentoDeExcecoes.Exemplo.modelEntities.Reservation;
 //
 //import java.text.ParseException;
 //import java.text.SimpleDateFormat;

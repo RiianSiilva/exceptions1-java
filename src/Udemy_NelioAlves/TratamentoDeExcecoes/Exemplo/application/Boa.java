@@ -1,7 +1,7 @@
-package Exemplo.application;
+package Udemy_NelioAlves.TratamentoDeExcecoes.Exemplo.application;
 
-import Exemplo.model.Entities.Reservation;
-import Exemplo.model.Exeptions.DomainExeptions;
+import Udemy_NelioAlves.TratamentoDeExcecoes.Exemplo.model.Entities.Reservation;
+import Udemy_NelioAlves.TratamentoDeExcecoes.Exemplo.model.Exeptions.DomainExeptions;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
